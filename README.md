@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##SPORTSYNC
+## SPORTSYNC
 Sportsync is a dynamic platform connecting sports enthusiasts based on their interests,location, and availability.
 
 ## About Laravel
